@@ -1,0 +1,7 @@
+Since GitHub does not allow files that are above 25MB, it follows the links for the two remaining systems used:
+
+dbeaver:
+https://drive.google.com/file/d/1PE1g5cgrJghFOPv2XfkRhUvg4N2Rc3Em/view?usp=sharing
+
+libgdx:
+https://drive.google.com/file/d/1fSRw2j7O7E6CsJBYKoHPopC67ot_Ns00/view?usp=sharing
