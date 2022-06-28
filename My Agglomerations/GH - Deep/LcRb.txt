@@ -1,0 +1,5 @@
+sistema;classe;lc;rb;fe;lm;nfe;nlm;cbo;wmc;dit;rfc;maxNest;tcc;loc;nom;classification
+libgdx;com.badlogic.gdx.graphics.g3d.particles.batches.BillboardParticleBatch;1;1;0;0;0;0;33;56;3;54;3;0.0;373;30;LcRb
+libgdx;com.badlogic.gdx.graphics.g3d.shaders.DefaultShader;1;1;0;0;0;0;39;167;2;65;4;0.0;704;27;LcRb
+libgdx;com.badlogic.gdx.scenes.scene2d.ui.Image;1;1;0;0;0;0;16;49;3;30;2;0.0;126;25;LcRb
+libgdx;com.badlogic.gdx.scenes.scene2d.ui.ProgressBar;1;1;0;0;0;0;16;93;3;41;3;0.0;309;36;LcRb
