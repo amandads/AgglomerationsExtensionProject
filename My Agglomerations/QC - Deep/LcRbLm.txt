@@ -1,9 +1,0 @@
-sistema;classe;lc;rb;fe;lm;nfe;nlm;cbo;wmc;dit;rfc;maxNest;loc;nom;classification
-jasperreports;net.sf.jasperreports.engine.export.JRXlsAbstractExporter;1;1;0;1;0;1;33;122;2;81;5;464;34;LcRbLm
-jfreechart;org.jfree.chart.plot.dial.StandardDialScale;1;1;0;1;0;1;6;90;2;26;4;370;49;LcRbLm
-jfreechart;org.jfree.chart.renderer.xy.StandardXYItemRenderer;1;1;0;1;0;1;24;111;5;85;5;419;37;LcRbLm
-jmeter;org.apache.jmeter.protocol.jdbc.sampler.JDBCSampler;1;1;0;1;0;1;16;90;3;104;4;462;28;LcRbLm
-jmeter;org.apache.jmeter.protocol.tcp.sampler.TCPSampler;1;1;0;1;0;1;11;68;3;74;5;315;32;LcRbLm
-lucene;org.apache.lucene.analysis.miscellaneous.WordDelimiterFilter;1;1;0;1;0;1;14;57;4;39;4;252;16;LcRbLm
-tomcat;org.apache.catalina.ha.deploy.FarmWarDeployer;1;1;0;1;0;1;21;101;2;82;6;395;40;LcRbLm
-tomcat;org.apache.catalina.session.PersistentManagerBase;1;1;0;1;0;1;18;126;4;65;6;442;30;LcRbLm
