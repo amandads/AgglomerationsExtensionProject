@@ -1,0 +1,3 @@
+sistema;classe;lc;rb;fe;lm;nfe;nlm;wmc;maxNest;cbo;lcom*;noc;dit;loc;nom;classification
+dbeaver;org.jkiss.dbeaver.ui.app.standalone.DBeaverApplication;1;1;0;1;0;1;107;5;29;0.9490908;0;3;464;33;LcRbLm
+libgdx;com.badlogic.gdx.scenes.scene2d.ui.Label;1;1;0;1;0;1;89;3;15;0.8789916;0;3;270;35;LcRbLm

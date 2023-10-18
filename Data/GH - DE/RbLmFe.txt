@@ -1,0 +1,8 @@
+sistema;classe;lc;rb;fe;lm;nfe;nlm;wmc;maxNest;cbo;lcom*;noc;dit;loc;nom;classification
+dbeaver;org.jkiss.dbeaver.ui.search.metadata.SearchMetadataPage;0;1;1;1;2;1;63;10;35;0.76754385;0;3;370;12;RbLmFe
+fastjson;com.alibaba.fastjson.parser.deserializer.Jdk8DateCodec;0;1;1;1;1;1;178;7;16;0.84444463;0;2;554;9;RbLmFe
+libgdx;com.badlogic.gdx.scenes.scene2d.ui.Container;0;1;1;1;3;1;192;3;15;0.90122086;0;4;561;106;RbLmFe
+libgdx;com.badlogic.gdx.graphics.Texture;0;1;1;1;1;1;43;3;15;0.7435897;0;2;177;26;RbLmFe
+libgdx;com.badlogic.gdx.maps.tiled.TideMapLoader;0;1;1;1;3;1;43;6;32;0.6818182;0;3;227;11;RbLmFe
+libgdx;com.badlogic.gdx.maps.tiled.TmxMapLoader;0;1;1;1;1;1;25;4;24;0.0;0;5;128;9;RbLmFe
+libgdx;com.badlogic.gdx.scenes.scene2d.ui.List;0;1;1;1;2;1;70;4;21;0.8489583;0;3;326;32;RbLmFe

@@ -1,0 +1,9 @@
+sistema;classe;lc;rb;fe;lm;nfe;nlm;wmc;maxNest;cbo;lcom*;noc;dit;loc;nom;classification
+jasperreports;net.sf.jasperreports.engine.export.JRXlsAbstractExporter;1;1;0;1;0;1;122;5;31;0.95647085;3;2;464;34;LcRbLm
+jfreechart;org.jfree.chart.plot.dial.StandardDialScale;1;1;0;1;0;1;90;4;6;0.8867346;0;2;370;49;LcRbLm
+jfreechart;org.jfree.chart.renderer.xy.StandardXYItemRenderer;1;1;0;1;0;1;111;5;23;0.89939934;1;5;419;37;LcRbLm
+jmeter;org.apache.jmeter.protocol.tcp.sampler.TCPSampler;1;1;0;1;0;1;68;5;10;0.93607956;0;2;315;32;LcRbLm
+jmeter;org.apache.jmeter.protocol.jdbc.sampler.JDBCSampler;1;1;0;1;0;1;90;4;13;0.94897944;0;2;462;28;LcRbLm
+lucene;org.apache.lucene.analysis.miscellaneous.WordDelimiterFilter;1;1;0;1;0;1;57;4;12;0.8897059;0;2;252;16;LcRbLm
+tomcat;org.apache.catalina.ha.deploy.FarmWarDeployer;1;1;0;1;0;1;101;6;19;0.9132353;0;2;395;40;LcRbLm
+tomcat;org.apache.catalina.session.PersistentManagerBase;1;1;0;1;0;1;126;6;15;0.86333334;1;4;442;30;LcRbLm

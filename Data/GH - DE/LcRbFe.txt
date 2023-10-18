@@ -1,0 +1,1 @@
+sistema;classe;lc;rb;fe;lm;nfe;nlm;wmc;maxNest;cbo;lcom*;noc;dit;loc;nom;classification

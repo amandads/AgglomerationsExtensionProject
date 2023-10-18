@@ -1,0 +1,9 @@
+sistema;classe;lc;rb;fe;lm;nfe;nlm;wmc;maxNest;cbo;lcom*;noc;dit;loc;nom;classification
+dbeaver;org.jkiss.dbeaver.ui.editors.text.handlers.MorphDelimitedListHandler;0;1;0;1;0;1;26;5;13;0.0;0;4;248;2;RbLm
+dbeaver;org.jkiss.dbeaver.ui.editors.text.FileRefDocumentProvider;0;1;0;1;0;2;58;4;28;0.9166666;0;4;423;18;RbLm
+dbeaver;org.jkiss.dbeaver.ext.postgresql.tasks.PostgreDatabaseBackupSettings;0;1;0;1;0;1;51;6;16;0.79861104;0;3;202;18;RbLm
+fastjson;com.alibaba.fastjson.parser.deserializer.AbstractDateDeserializer;0;1;0;1;0;1;37;6;11;0.0;2;2;158;3;RbLm
+libgdx;com.badlogic.gdx.graphics.g3d.particles.batches.PointSpriteParticleBatch;0;1;0;1;0;1;19;2;24;0.8484848;0;2;94;12;RbLm
+libgdx;com.badlogic.gdx.scenes.scene2d.ui.SelectBox;0;1;0;1;0;1;82;2;28;0.86247087;0;7;426;39;RbLm
+libgdx;com.badlogic.gdx.graphics.g3d.particles.emitters.RegularEmitter;0;1;0;1;0;1;48;4;13;0.7940503;0;3;198;23;RbLm
+libgdx;com.badlogic.gdx.graphics.g3d.particles.values.EllipseSpawnShapeValue;0;1;0;1;0;1;15;2;9;0.33333334;0;3;70;9;RbLm
